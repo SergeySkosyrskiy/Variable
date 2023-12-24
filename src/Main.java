@@ -74,4 +74,5 @@ quantityStaff=quantityStaff+94;
 quantityHours=quantityStaff*8;
         System.out.println("Если в компании работает - " +quantityStaff+ " человек то всего " +quantityHours+  " часов работы может быть поделено между сотрудниками " );
     }
+
     }
