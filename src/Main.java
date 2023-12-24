@@ -60,9 +60,9 @@ var difference = boxer2-boxer1;
 
 System.out.println("Задача№7");
 difference = boxer2-boxer1;
-        System.out.println("Разница масс первым способом = "+difference+ "kg" );
+        System.out.println("Разница масс первым способом = "+difference+ " kg" );
 difference = boxer2 % boxer1;
-        System.out.println("Разница масс вторым способом = "+difference+ "kg" );
+        System.out.println("Разница масс вторым способом = "+difference+ " kg" );
 
 System.out.println("Задача№8");
 var quantityHours=640;
